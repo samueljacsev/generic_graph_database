@@ -1,1 +1,1 @@
-# generic_graph_database
+# Generic Directed Graph Database
