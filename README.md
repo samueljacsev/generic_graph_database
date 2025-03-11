@@ -1,1 +1,1 @@
-# Generic Directed Graph Database
+# Generic Directed Graph | Database
